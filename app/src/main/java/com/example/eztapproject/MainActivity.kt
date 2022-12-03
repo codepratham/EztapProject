@@ -205,18 +205,5 @@ class MainActivity : AppCompatActivity() {
         return activeNetworkInfo != null && activeNetworkInfo.isConnected
     }
 
-//    fun findViewWithTagRecursively(tag: Any, parent: ViewGroup): View? {
-//        var theView: View? = null
-//        val childCount: Int = binding.root.ll_dyamicViews.children.for (i in 0 until childCount) {
-//            val childView: View = binding.root.ll_dyamicViews.getChildAt(i)
-//            if (childView is ViewGroup) {
-//                continue
-//            } else {
-//                val tagView: Any? = childView.tag
-//                if (tagView != null && tagView == tag)
-//                    theView = childView
-//            }
-//        }
-//        return theView
-//    }
+
 }
