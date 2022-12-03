@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/prath/AndroidStudioProjects/EztapProject/app/src/main/res/layout/activity_main.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/EztapProject/app/src/main/res/layout/activity_main2.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/EztapProject/app/src/main/res/layout/lyt_btn.xml" value="0.25625" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/EztapProject/app/src/main/res/layout/lyt_button.xml" value="0.22418478260869565" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/EztapProject/app/src/main/res/layout/lyt_edit_text.xml" value="0.25625" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/EztapProject/app/src/main/res/layout/lyt_edit_text_city.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/EztapProject/app/src/main/res/layout/lyt_edit_text_phn.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/prath/AndroidStudioProjects/EztapProject/app/src/main/res/layout/lyt_text_viewt.xml" value="0.25625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
